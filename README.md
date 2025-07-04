@@ -151,7 +151,7 @@ vector_cache:
 
 ## 📜 协议
 
-本项目采用 **Apache 2.0** 开源协议。商业使用请遵守条款，若有特别需求可联系 [core@duckllm.com](mailto:core@duckllm.com) 商议企业授权。
+本项目采用 **Apache 2.0** 开源协议。商业使用请遵守条款，若有特别需求可联系 [Support@duckllm.com](mailto:Support@duckllm.com) 商议企业授权。
 
 ---
 
