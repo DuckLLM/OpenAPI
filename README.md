@@ -10,6 +10,9 @@ OpenAI API from DuckLLM | OpenAI API 中转站开源项目
 
 ---
 
+<img width="1507" alt="Screenshot 2025-07-04 at 7 41 54 PM" src="https://github.com/user-attachments/assets/f0a54972-9ee6-4e40-9ea1-de3a19925749" />
+
+
 ## ✨ 主要特性
 
 | 功能              | 描述                                          |
